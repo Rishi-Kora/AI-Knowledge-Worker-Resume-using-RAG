@@ -9,13 +9,13 @@
 
 ---
 
-## 🚀 What Is This?
+##  What Is This?
 
 A Jupyter Notebook–powered toolkit that uses Retrieval-Augmented Generation (RAG) to help you craft a knockout resume. Feed it your raw career data (LinkedIn exports, old CVs, brag-worthy project notes), and let an AI do the heavy lifting—so you can spend your time practicing interview answers (or napping).
 
 ---
 
-## 🛠️ Features
+## 🛠Features
 
 - **Semantic Bullet Wizardry**: AI-powered rewriting of your career highlights so they sing (literally, if you ask nicely).  
 - **Contextual Knowledge Fetch**: Instantly pulls in role-specific buzzwords and metrics (because “improved performance” is good—but “boosted query throughput by 37%” is eyebrow-raising).  
@@ -24,7 +24,7 @@ A Jupyter Notebook–powered toolkit that uses Retrieval-Augmented Generation (R
 
 ---
 
-## 🧰 Requirements
+##  Requirements
 
 - Python 3.8+  
 - [Jupyter Notebook](https://jupyter.org/)  
@@ -36,7 +36,7 @@ A Jupyter Notebook–powered toolkit that uses Retrieval-Augmented Generation (R
 
 ---
 
-## 🏁 Quick Start
+##  Quick Start
 
 1. **Clone this repo**
 
@@ -71,7 +71,7 @@ A Jupyter Notebook–powered toolkit that uses Retrieval-Augmented Generation (R
 
 ---
 
-## 🤝 How to Contribute
+##  How to Contribute
 
 1. Fork it (🍴).
 2. Create your feature branch (`git checkout -b feature/resume-pun`).
@@ -81,7 +81,7 @@ A Jupyter Notebook–powered toolkit that uses Retrieval-Augmented Generation (R
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Rishi Kora – [korarishi@gmail.com](mailto:korarishi@gmail.com)
 Project Link: [https://github.com/Rishi-Kora/AI-Knowledge-Worker-Resume-using-RAG](https://github.com/Rishi-Kora/AI-Knowledge-Worker-Resume-using-RAG)
@@ -92,7 +92,7 @@ Project Link: [https://github.com/Rishi-Kora/AI-Knowledge-Worker-Resume-using-RA
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
