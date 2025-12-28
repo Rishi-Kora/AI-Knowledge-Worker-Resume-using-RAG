@@ -15,7 +15,7 @@ A Jupyter Notebook–powered toolkit that uses Retrieval-Augmented Generation (R
 
 ---
 
-## 🛠Features
+## Features
 
 - **Semantic Bullet Wizardry**: AI-powered rewriting of your career highlights so they sing (literally, if you ask nicely).  
 - **Contextual Knowledge Fetch**: Instantly pulls in role-specific buzzwords and metrics (because “improved performance” is good—but “boosted query throughput by 37%” is eyebrow-raising).  
